@@ -11,7 +11,7 @@ jobs:
       registry: index.docker.io
       repository: santander-anagrams
       sleep: 10
-      tagname: ci
+      tagname: ci-actions
       user: guillermopolo76
     runs-on: ubuntu-18.04
     steps:
